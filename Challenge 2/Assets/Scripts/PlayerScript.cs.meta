@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 87dc23922e3d2c947bfd85d8bcb2f030
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoretext: {instanceID: 0}
+  - scoretextShadow: {instanceID: 0}
+  - wintext: {instanceID: 0}
+  - wintextShadow: {instanceID: 0}
+  - livestext: {instanceID: 0}
+  - livestextShadow: {instanceID: 0}
+  - leveltext: {instanceID: 0}
+  - leveltextShadow: {instanceID: 0}
+  - musicClipOne: {fileID: 8300000, guid: a58896beaae5afc47bc79b0304260c30, type: 3}
+  - musicClipWin: {fileID: 8300000, guid: 9a392fa7be20d2c4f9612897cdf12ba7, type: 3}
+  - musicClipThree: {fileID: 8300000, guid: a913eaa5126cdaf41b155b9498a45cd3, type: 3}
+  - musicSource: {instanceID: 0}
+  - sfxClipJump: {fileID: 8300000, guid: bc37355cbf4c71843ba2d6de0b61a70f, type: 3}
+  - sfxClipCoin: {fileID: 8300000, guid: a4aad7fcad1e5c647876d75394ba2cbb, type: 3}
+  - sfxClipEnemy: {fileID: 8300000, guid: 65f7eb2322690c444bae92180a74a5b9, type: 3}
+  - sfxSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
